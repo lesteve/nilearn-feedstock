@@ -3,7 +3,7 @@ About nilearn
 
 Home: https://nilearn.github.io
 
-Package license: New BSD
+Package license: BSD 3-clause
 
 Feedstock license: BSD 3-Clause
 
