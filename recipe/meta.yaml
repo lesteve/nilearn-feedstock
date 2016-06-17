@@ -1,4 +1,4 @@
-{% set version = "0.2.4" %}
+{% set version = "0.2.5" %}
 
 package:
   name: nilearn
@@ -6,8 +6,8 @@ package:
 
 source:
   fn: nilearn-{{ version }}.tar.gz
-  url: https://pypi.python.org/packages/source/n/nilearn/nilearn-{{ version }}.tar.gz
-  md5: 66145792fb2aebf51e221225bd210534
+  url: https://files.pythonhosted.org/packages/source/n/nilearn/nilearn-{{ version }}.tar.gz
+  md5: 383d406d2eeec2bf7b68cc5d4fe20cb9
 
 build:
     number: 1
